@@ -1,0 +1,4 @@
+
+! There is a 155 Character length on warnings so be careful not to exceed it.
+! There is also an upper limit of 100 error messages. To change either edit the parameters file.
+Warning_message(1)="Warning. This is a test"
